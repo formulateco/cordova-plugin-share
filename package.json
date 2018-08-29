@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-share",
+  "author": {
+    "name": "Mark Marijnissen"
+  },
+  "bugs": {
+    "url": "https://github.com/markmarijnissen/cordova-plugin-share/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Cordova plugin for Native Sharing",
+  "homepage": "https://github.com/markmarijnissen/cordova-plugin-share#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmarijnissen/cordova-plugin-share.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
